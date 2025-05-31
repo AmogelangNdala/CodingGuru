@@ -13,7 +13,7 @@ export const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                src="id.jpg&fit=crop&crop=face"
                 alt="Profile"
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto"
               />
